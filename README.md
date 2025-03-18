@@ -1,6 +1,6 @@
 # My 3D Portfolio
 
-![Portfolio Screenshot](portofolio1.jpg) <!-- Replace with actual screenshot -->
+![Portfolio Screenshot](portfolio1.jpeg) <!-- Replace with actual screenshot -->
 
 Welcome to my personal portfolio website! This project showcases my abilities and creativity as a developer, offering an interactive, 3D-driven experience. Crafted with the latest web technologies, it blends captivating 3D visuals, seamless animations, and a responsive layout that ensures a smooth experience across all devices. Take a look at my journey, explore my projects, and learn about my skills—enjoy the exploration!
 

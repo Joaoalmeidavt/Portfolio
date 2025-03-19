@@ -86,4 +86,4 @@ Want to run this project locally? Here’s how:
 5. Open your browser and go to `http://localhost:3000` (or the port Vite specifies).
 
 ---
-Feel free to explore, fork, or reach out! I’d love to hear your thoughts via the contact form on the site. Thanks for checking it out! 
+Feel free to explore, fork, or reach out!Thanks for checking it out! 

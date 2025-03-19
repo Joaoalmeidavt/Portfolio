@@ -17,8 +17,9 @@ import {
     ua,
     
     pedro_almeida,
-    ruben,
+    
     pedro_mirassol,
+    ruben_verdadeiro,
 
     codeforall,
   
@@ -166,7 +167,7 @@ import {
       name: "Ruben Verdadeiro",
       designation: "Data Analyst",
       company: "Stats Perform",
-      image: ruben,
+      image: ruben_verdadeiro,
     },
     {
       testimonial:

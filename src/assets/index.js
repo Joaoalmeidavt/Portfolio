@@ -36,7 +36,7 @@ import responsive from "./responsive.png";
 import forever from "./forever.png";
 
 import pedro_almeida from "./pedro_almeida.jpeg";
-import ruben from "./ruben.jpeg";
+import ruben_verdadeiro from "./ruben_verdadeiro.jpeg";
 import pedro_mirassol from "./pedro_mirassol.jpeg";
 
 export {
@@ -69,9 +69,10 @@ export {
   vivanimal2,
   responsive,
   forever,
+  
 
   pedro_almeida,
-  ruben,
+  ruben_verdadeiro,
   pedro_mirassol,
 
   carrent,

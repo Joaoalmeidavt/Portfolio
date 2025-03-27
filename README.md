@@ -12,7 +12,7 @@ This portfolio is a dynamic, engaging platform that reflects my passion for deve
 
 ---
 
-## Tech Stack
+## Tech Stack 
 
 
 - **Front-End**:
